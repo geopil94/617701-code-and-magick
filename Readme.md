@@ -1,7 +1,7 @@
-# Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
+﻿# Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Георгий Пилипюк](https://up.htmlacademy.ru/javascript/13/user/617701).
-* Наставник: `Неизвестно`.
+* Наставник: `Евгений Лепёшкин`.
 
 ---
 
