@@ -200,12 +200,12 @@
 
   var getWizardX = function (width)
   {
-    return 300; // как определить центр поля выражением, а не числом? через вьюпорт и проценты не сработало =(
+    return height * 2 / 3;
   }
 
   var getWizardY = function (height)
   {
-    return Math.round(205*2/3); // тоже не понятно. высоту поля определял подбором =(
+    return width / 2 - wizardWidth / 2;
   }
 </script>
 
